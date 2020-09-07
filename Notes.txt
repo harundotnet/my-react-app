@@ -1,0 +1,40 @@
+ Rabbil Hasan Tutorial
+ ======================
+ Playlist - 20 finish
+
+ 
+ 
+ Tools
+==============================
+Node JS
+IDE like VS Code
+
+-------------------------------
+Create and Run React App
+=============================
+
+npx create-react-app <app-name>
+cd <app-name>
+npm start
+
+--------------------------------
+CSS for React Component
+================================
+npm install --save bootstrap
+Or
+npm install --save bootstrap@4.0.0-alpha-6
+
+Remarks;
+    For 1st cmd files go to node_modules
+    For 2nd cmd files go to root folder
+    
+--------------------------------------------
+
+
+
+
+
+
+
+
+
