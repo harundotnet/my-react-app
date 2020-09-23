@@ -8,6 +8,11 @@ import State from './Components/State.js';
 import SetState from './Components/SetState.js';
 import Condition1 from './Components/Condition1.js';
 import VariableElement from './Components/VariableElement.js';
+import Refresh from './Components/Refresh';
+import ReactDOM1 from './Components/ReactDOM1';
+import ReactDOM2 from './Components/ReactDOM2';
+import Signup from './Components/Signup';
+import BasicForm from './Components/BasicForm';
 
 
 function App() {
@@ -21,15 +26,24 @@ function App() {
       {// I am comments but not better approch
       // Like previous one
       }
-
-      <State></State>
+{/*
+ <State></State>
       <hr></hr>
       <SetState></SetState>
       <hr></hr>
       <Condition1></Condition1>
       <hr></hr>
       <VariableElement></VariableElement>
-
+      <hr></hr>
+      <Refresh></Refresh>
+      <hr></hr>
+       <ReactDOM1></ReactDOM1>
+      <br></br>
+      <ReactDOM2></ReactDOM2>
+      <Signup/>
+*/}
+     
+     <BasicForm></BasicForm>
     </div>
   );
 }
